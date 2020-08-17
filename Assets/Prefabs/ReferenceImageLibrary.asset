@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4808296803012687319
+  m_GuidHigh: 6861860665980411277
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4893308387970280868
+      m_GuidHigh: 5248605295235753387
+    m_SerializedTextureGuid:
+      m_GuidLow: 5946111986976903349
+      m_GuidHigh: 8879914728856667771
+    m_Size: {x: 0.1, y: 0.075}
+    m_SpecifySize: 1
+    m_Name: BigCube
+    m_Texture: {fileID: 2800000, guid: 2a7350b5d55952847bc642e965cb3b7b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5248394335734729286
+      m_GuidHigh: 18398080321675946907
+    m_SerializedTextureGuid:
+      m_GuidLow: 9130035270714709191
+      m_GuidHigh: 5195789373203130344
+    m_Size: {x: 0.1, y: 0.069720626}
+    m_SpecifySize: 1
+    m_Name: BigSphere
+    m_Texture: {fileID: 2800000, guid: a9bcd4c766b47eb4e8a7850de8261b48, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4626691476354143694
+      m_GuidHigh: 7314238862527250056
+    m_SerializedTextureGuid:
+      m_GuidLow: 4221164869682935062
+      m_GuidHigh: 7841431621562749547
+    m_Size: {x: 0.2, y: 0.09411765}
+    m_SpecifySize: 1
+    m_Name: MySon
+    m_Texture: {fileID: 2800000, guid: 93cf351697153a946b52c39d835cd26c, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4727748783893173149
+      m_GuidHigh: 10085499755037859225
+    m_SerializedTextureGuid:
+      m_GuidLow: 11219758305742464903
+      m_GuidHigh: 14610563084592070840
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: Vishnu
+    m_Texture: {fileID: 2800000, guid: f784a78796bb9bb4b8c08b21b725c3ca, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5215896425284380471
+      m_GuidHigh: 15806511554620620933
+    m_SerializedTextureGuid:
+      m_GuidLow: 13174306012447100424
+      m_GuidHigh: 4160195993260047321
+    m_Size: {x: 0.2, y: 0.1609375}
+    m_SpecifySize: 1
+    m_Name: Renault
+    m_Texture: {fileID: 2800000, guid: 9233ce088984b6d4d9bb44d636fcbb39, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5222242087465253456
+      m_GuidHigh: 2319518296831341242
+    m_SerializedTextureGuid:
+      m_GuidLow: 627244070617669124
+      m_GuidHigh: 8731092571867288953
+    m_Size: {x: 0.2, y: 0.29827717}
+    m_SpecifySize: 1
+    m_Name: laocoon
+    m_Texture: {fileID: 2800000, guid: b0a2de046b2808b47995334f6f122b79, type: 3}
